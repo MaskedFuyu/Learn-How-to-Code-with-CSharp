@@ -1,0 +1,11 @@
+/Users/phoenixfeng/source/Learn-How-to-Code-with-CSharp/GuessTheNumber/bin/Debug/netcoreapp3.0/GuessTheNumber
+/Users/phoenixfeng/source/Learn-How-to-Code-with-CSharp/GuessTheNumber/bin/Debug/netcoreapp3.0/GuessTheNumber.deps.json
+/Users/phoenixfeng/source/Learn-How-to-Code-with-CSharp/GuessTheNumber/bin/Debug/netcoreapp3.0/GuessTheNumber.runtimeconfig.json
+/Users/phoenixfeng/source/Learn-How-to-Code-with-CSharp/GuessTheNumber/bin/Debug/netcoreapp3.0/GuessTheNumber.runtimeconfig.dev.json
+/Users/phoenixfeng/source/Learn-How-to-Code-with-CSharp/GuessTheNumber/bin/Debug/netcoreapp3.0/GuessTheNumber.dll
+/Users/phoenixfeng/source/Learn-How-to-Code-with-CSharp/GuessTheNumber/bin/Debug/netcoreapp3.0/GuessTheNumber.pdb
+/Users/phoenixfeng/source/Learn-How-to-Code-with-CSharp/GuessTheNumber/obj/Debug/netcoreapp3.0/GuessTheNumber.csprojAssemblyReference.cache
+/Users/phoenixfeng/source/Learn-How-to-Code-with-CSharp/GuessTheNumber/obj/Debug/netcoreapp3.0/GuessTheNumber.AssemblyInfoInputs.cache
+/Users/phoenixfeng/source/Learn-How-to-Code-with-CSharp/GuessTheNumber/obj/Debug/netcoreapp3.0/GuessTheNumber.AssemblyInfo.cs
+/Users/phoenixfeng/source/Learn-How-to-Code-with-CSharp/GuessTheNumber/obj/Debug/netcoreapp3.0/GuessTheNumber.dll
+/Users/phoenixfeng/source/Learn-How-to-Code-with-CSharp/GuessTheNumber/obj/Debug/netcoreapp3.0/GuessTheNumber.pdb
